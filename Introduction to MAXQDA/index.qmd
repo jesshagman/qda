@@ -1,0 +1,100 @@
+---
+title: "Getting Started with MAXQDA"
+order: 1
+author: 
+    name: Jess Hagman
+    affiliation: University of Illinois, Urbana-Champaign
+date: 2026-08-14
+---
+
+# What is MAXQDA
+
+MAXQDA is a software program for qualitative data analysis.
+
+# Getting access to MAXQDA
+
+All University of Illinois students and staff can access MAXQDA at no cost through a university license. This shared license allows up to 60 simultaneous users.
+
+The university license includes access to the program itself (including updated versions of the software) and the [AI-Assist](https://www.maxqda.com/products/ai-assist) feature. Other features, such as Team Cloud and Transcription must be purchased separately.
+
+## Download MAXQDA
+
+[Download MAXQDA](https://www.maxqda.com/download-now) for Mac or Windows and install on your computer.
+
+## For off-campus use: Connect to Campus VPN
+
+If you are using MAXQDA away from any of the University of Illinois campuses, you will need to use the Campus VPN service.
+
+## Add license information
+
+When you open the program for the first time, you will be prompted for license information. Select the option to `Connect to your institution's network license`.
+
+On the following screen, add the following information and click `Connect`.
+
+1.  Server address: `maxqda.webstore.illinois.edu`
+2.  Port: `21990`
+3.  License name: `MAXQDA`
+
+## Optional: Connect a MAXQDA account
+
+If you want to use any of the following MAXQDA tools, you will need a MAXQDA account. You can create this account for free. It is not tied to the University license and you can use any email address.
+
+- AI-Assist: The AI-Assist feature in the MAXQDA program is included in the University license. Each user must log in and agree to the license terms in order to use these features, however. Once you log in with your MAXQDA account, the AI-Assist features will be enabled. [MAXQDA Manual: AI-Assist](https://www.maxqda.com/help/ai-assist/what-is-ai-assist){.manual-link}
+- Tailwind: Tailwind is a web-based version of the AI tools offered by MAXQDA. It is not included in the University license. [MAXQDA Manual: Tailwind](https://www.maxqda.com/help/import/tailwind-projects){.manual-link}
+- Team Cloud: The Team Cloud tool facilitates working with other MAXQDA users on a single project. It is not required for collaboration - see more about Collaboration in MAXQDA. You can purchase access to the TeamCloud feature for use with the University license. [MAXQDA Manual: Team Cloud](https://www.maxqda.com/help/teamcloud/welcome){.manual-link}
+- Transcription: MAXQDA will transcribe media content if you purchase credits for their Transcription module. If you purchase this module, you can use it with the University license. [MAXQDA Manual: Transcription](https://www.maxqda.com/help/transcription-audio-video/automatic-transcription/transcribe-in-maxqda){.manual-link}
+
+# Create a new project
+
+From the opening screen, you have the option to:
+
+1.  Create a new project.
+
+2.  Open an existing project from your device.
+
+3.  Open example projects that MAXQDA has created to try out the features. The project includes many different kinds of data and can show you what analysis can look like once you have data uploaded and some coding completed.
+
+4.  Open a recent project.
+
+![](images/maxqda-intro-new.png){fig-alt="Opening screen in MAXQDA showing options to create a new project, open an existing project, use the example project included in MAXQDA, or open a recent project. "}
+
+## Choosing a location for your project data
+
+When you create a new project, you'll be prompted to choose a location to save the project file. The data is not shared with any cloud service, unless you choose store your project using a cloud storage service storage.
+
+As you decide where to locate your project file, keep in mind that this location will be where your collected data is stored. If your data is sensitive or you have data security and confidentiality requirements for a project involving human subjects, you must ensure that the data location meets those requirements.
+
+::: callout-caution
+## MAXQDA recommends not saving to cloud storage systems
+
+MAXQDA does not recommend that you save your project file directly from a cloud storage service like Box or OneDrive as this can lead to errors when the service syncs.
+
+However, if you need to share the project file with another researcher, you can save the project file there and then download it to your device when you are ready to work. When your work is completed, you can save the project back to the storage service for your team to use.
+:::
+
+## 
+
+# The MAXQDA interface and key terms
+
+The MAXQDA is complex and uses some key terms that are unique to the program. The main screen shows four different elements.
+
+1.  Documents: This is where your data files will be located once you have uploaded them to your project.
+
+2.  Codes: When you create and organize codes they will appear in this window.
+
+3.  Document browser: When you select a document, the data will appear in this window.
+
+4.  Retrieved segments: MAXQDA uses the concept of activation to describe when you want to focus on a part of the data in your project. When you activate one or more documents and one or more codes, that data will appear in this window.
+
+![](images/maxqda-intro-interface-overivew.png){fig-alt="A screenshot of a new MAXQDA project with no data or codes. The screen displays four windows: documents, codes, document browser, and retrieved segments. "}
+
+## Activation
+
+Your project in MAXQDA will likely include many different data elements and a variety of codes that you will use to structure and analyze on your way to answering your research questions. By activating codes and documents, you can choose to focus on and explore one part of the data set.
+
+For example, if we have a data set with two document groups: parents and teachers, for a study of communication between parents and teachers at an elementary school. Our data includes transcripts of interviews for each participant. Once we have coded all the interviews for topics like "barriers to communication," we can use activation to compare how parents and teachers view communication barriers. We'll be able to identify any commonalities or differences between the two groups.
+
+| Activated document group | Activated code | Data displayed in Retrieved Segments window |
+|------------------------|------------------------|------------------------|
+| Parents | Barriers to communication | Interview transcript data where parents discuss what they see as barriers to communication with teachers. |
+| Teachers | Barriers to communication | Interview transcript data where teachers discuss what they see as barriers to communication with parents |

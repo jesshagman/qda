@@ -1,0 +1,46 @@
+---
+title: "Planning Qualitative Data Analysis: Data"
+format: html
+---
+
+In this section, we'll look at the data you are using - or expect to use - for your research project. This will help us better understand how the nature of the data will shape the process of analysis.
+
+## Things to consider about your data
+
+### Format
+
+Qualitative data comes in a variety of formats and data types:
+
+- Text: Many qualitative research projects use text data, for interview and focus group transcripts, media transcripts, reports or other relevant documents in a case study, field notes.
+- Survey data: Some survey studies will include open-ended questions for participants to use their own words to respond to a question. This data is usually compiled into a table or spreadsheet in combination with responses to closed-ended questions or variables for respondents.
+- Media: Interview or focus group studies may include audio or video recordings in addition to transcript text.
+
+### Volume
+
+### Data protection
+
+If your data has been collected with research participants or is otherwise sensitive, you have an obligation to protect that data in line with any agreements with your university and participants.
+
+#### Data security
+
+### Sharing and re-using data
+
+Some researchers intend to share their data with readers or the public more broadly. Data sharing should be addressed in your project plan and consent received from any research participants to share their data.
+
+If you plan to share your data upon completion of your project, it is a good idea to decide where your data will be shared as you collect and analyze data rather than waiting until the end of the project. If you choose a repository, they will likely have guidelines on the type of data
+
+::: {.callout-tip appearance="simple"}
+## Qualitative Data Repository (QDR)
+:::
+
+## Preparing data for analysis
+
+Before you analyze your data, you may want to spend some time preparing it so that it fits with your analysis plans.
+
+#### Transcription
+
+You may decide to transcribe audio or video content so that you can work with the text directly rather than the data in a media format. There are many tools for automatically transcribing interviews, focus groups, and other media, though you must ensure that uploading data to a
+
+::: callout-note
+## Tools for Transcription
+:::
