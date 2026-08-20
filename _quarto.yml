@@ -2,19 +2,17 @@ project:
   type: website
 
 website:
-  title: "qda"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Qualitative Data Analysis"
+  sidebar:
+    style: "floating"
+    contents: "auto"
 
 format:
   html:
     theme:
-      - cosmo
+      - flatly
       - brand
-    css: styles.css
+    css: styles.scss
     toc: true
 
 
