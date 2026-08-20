@@ -1,8 +1,0 @@
----
-title: "Planning Qualitative Data Analysis"
-draft: true
----
-
-## Workshop information
-
-This workshop offers a strategy for choosing strategies for analysis of qualitative data based on the nature of your data, your research questions, and expected audiences.
