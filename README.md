@@ -1,1 +1,1 @@
-Re
+Repository for tutorials and workshop materials on qualitative data analysis. 
