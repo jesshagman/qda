@@ -1,7 +1,8 @@
 ---
-title: "qda"
+title: "Resources on Qualitative Data Analysis"
 ---
 
-This is a Quarto website.
+Hi, I'm Jess Hagman, a librarian at the University of Illinois Urbana-Champaign. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I work with students on planning and conducting analysis of qualitative data (or QDA). This website contains workshop materials, tutorials, and recommended resources for those doing qualitative work. 
+

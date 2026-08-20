@@ -12,7 +12,7 @@ format:
     theme:
       - flatly
       - brand
-    css: styles.scss
+    css: style.scss
     toc: true
 
 
