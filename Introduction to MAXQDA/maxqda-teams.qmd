@@ -1,0 +1,8 @@
+---
+title: "Teamwork in MAXQDA"
+order: 2
+author: 
+    name: Jess Hagman
+    affiliation: University of Illinois, Urbana-Champaign
+date: 2026-08
+---

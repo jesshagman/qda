@@ -15,5 +15,85 @@
     "crumbs": [
       "About"
     ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/index.html",
+    "href": "Introduction to MAXQDA/index.html",
+    "title": "Getting Started with MAXQDA",
+    "section": "",
+    "text": "MAXQDA is a software program for qualitative data analysis.",
+    "crumbs": [
+      "Getting Started with MAXQDA"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/index.html#download-maxqda",
+    "href": "Introduction to MAXQDA/index.html#download-maxqda",
+    "title": "Getting Started with MAXQDA",
+    "section": "Download MAXQDA",
+    "text": "Download MAXQDA\nDownload MAXQDA for Mac or Windows and install on your computer.",
+    "crumbs": [
+      "Getting Started with MAXQDA"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/index.html#for-off-campus-use-connect-to-campus-vpn",
+    "href": "Introduction to MAXQDA/index.html#for-off-campus-use-connect-to-campus-vpn",
+    "title": "Getting Started with MAXQDA",
+    "section": "For off-campus use: Connect to Campus VPN",
+    "text": "For off-campus use: Connect to Campus VPN\nIf you are using MAXQDA away from any of the University of Illinois campuses, you will need to use the Campus VPN service.",
+    "crumbs": [
+      "Getting Started with MAXQDA"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/index.html#add-license-information",
+    "href": "Introduction to MAXQDA/index.html#add-license-information",
+    "title": "Getting Started with MAXQDA",
+    "section": "Add license information",
+    "text": "Add license information\nWhen you open the program for the first time, you will be prompted for license information. Select the option to Connect to your institution's network license.\nOn the following screen, add the following information and click Connect.\n\nServer address: maxqda.webstore.illinois.edu\nPort: 21990\nLicense name: MAXQDA",
+    "crumbs": [
+      "Getting Started with MAXQDA"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/index.html#optional-connect-a-maxqda-account",
+    "href": "Introduction to MAXQDA/index.html#optional-connect-a-maxqda-account",
+    "title": "Getting Started with MAXQDA",
+    "section": "Optional: Connect a MAXQDA account",
+    "text": "Optional: Connect a MAXQDA account\nIf you want to use any of the following MAXQDA tools, you will need a MAXQDA account. You can create this account for free. It is not tied to the University license and you can use any email address.\n\nAI-Assist: The AI-Assist feature in the MAXQDA program is included in the University license. Each user must log in and agree to the license terms in order to use these features, however. Once you log in with your MAXQDA account, the AI-Assist features will be enabled. MAXQDA Manual: AI-Assist\nTailwind: Tailwind is a web-based version of the AI tools offered by MAXQDA. It is not included in the University license. MAXQDA Manual: Tailwind\nTeam Cloud: The Team Cloud tool facilitates working with other MAXQDA users on a single project. It is not required for collaboration - see more about Collaboration in MAXQDA. You can purchase access to the TeamCloud feature for use with the University license. MAXQDA Manual: Team Cloud\nTranscription: MAXQDA will transcribe media content if you purchase credits for their Transcription module. If you purchase this module, you can use it with the University license. MAXQDA Manual: Transcription",
+    "crumbs": [
+      "Getting Started with MAXQDA"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/index.html#choosing-a-location-for-your-project-data",
+    "href": "Introduction to MAXQDA/index.html#choosing-a-location-for-your-project-data",
+    "title": "Getting Started with MAXQDA",
+    "section": "Choosing a location for your project data",
+    "text": "Choosing a location for your project data\nWhen you create a new project, you’ll be prompted to choose a location to save the project file. The data is not shared with any cloud service, unless you choose store your project using a cloud storage service storage.\nAs you decide where to locate your project file, keep in mind that this location will be where your collected data is stored. If your data is sensitive or you have data security and confidentiality requirements for a project involving human subjects, you must ensure that the data location meets those requirements.\n\n\n\n\n\n\nCautionMAXQDA recommends not saving to cloud storage systems\n\n\n\nMAXQDA does not recommend that you save your project file directly from a cloud storage service like Box or OneDrive as this can lead to errors when the service syncs.\nHowever, if you need to share the project file with another researcher, you can save the project file there and then download it to your device when you are ready to work. When your work is completed, you can save the project back to the storage service for your team to use.",
+    "crumbs": [
+      "Getting Started with MAXQDA"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/index.html#activation",
+    "href": "Introduction to MAXQDA/index.html#activation",
+    "title": "Getting Started with MAXQDA",
+    "section": "Activation",
+    "text": "Activation\nYour project in MAXQDA will likely include many different data elements and a variety of codes that you will use to structure and analyze on your way to answering your research questions. By activating codes and documents, you can choose to focus on and explore one part of the data set.\nFor example, if we have a data set with two document groups: parents and teachers, for a study of communication between parents and teachers at an elementary school. Our data includes transcripts of interviews for each participant. Once we have coded all the interviews for topics like “barriers to communication,” we can use activation to compare how parents and teachers view communication barriers. We’ll be able to identify any commonalities or differences between the two groups.\n\n\n\n\n\n\n\n\nActivated document group\nActivated code\nData displayed in Retrieved Segments window\n\n\n\n\nParents\nBarriers to communication\nInterview transcript data where parents discuss what they see as barriers to communication with teachers.\n\n\nTeachers\nBarriers to communication\nInterview transcript data where teachers discuss what they see as barriers to communication with parents",
+    "crumbs": [
+      "Getting Started with MAXQDA"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/index.html#using-maxqda-off-campus",
+    "href": "Introduction to MAXQDA/index.html#using-maxqda-off-campus",
+    "title": "Getting Started with MAXQDA",
+    "section": "Using MAXQDA off campus",
+    "text": "Using MAXQDA off campus\nIf you are off-campus, you will need to either access the campus network using the VPN service or use MAXQDA through the IllinoisAnyware remote desktop service. Both services identify you as a member of the Illinois community with access to the shared license.\n\nUsing the VPN\n\n\nUsing IllinoisAnyWare\nIllinois AnyWareis a virtual desktop program, which lets you access research software from your own device. You will essentially be logging into a Windows desktop through your web browser and using the software that way. MAXQDA is among the programs installed on the virtual desktop. If you use IllinoisAnyWare, you will not need to use the Campus VPN.\n\n\n\n\n\n\nTip\n\n\n\nAccessing and saving your files via Illinois AnyWare\nFiles stored in your University OneDrive storage will be accessible on the virtual desktop. If you are not storing your research files in OneDrive, you should log into the storage location via the web, download the file, and then re-upload to the service once you have finished your work.\nFiles saved on the computer desktop or documents will not be saved. You must save your files to OneDrive or another cloud storage service.",
+    "crumbs": [
+      "Getting Started with MAXQDA"
+    ]
   }
 ]
