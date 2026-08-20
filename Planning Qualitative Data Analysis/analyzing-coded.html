@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Add Data to Your MAXQDA Project – Qualitative Data Analysis</title>
+<title>Analyzing Coded Data – Qualitative Data Analysis</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../Introduction to MAXQDA/index.html">Getting Started with MAXQDA</a></li><li class="breadcrumb-item"><a href="../Introduction to MAXQDA/add-data.html">Add Data to Your MAXQDA Project</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../Planning Qualitative Data Analysis/index.html">Planning Qualitative Data Analysis</a></li><li class="breadcrumb-item"><a href="../Planning Qualitative Data Analysis/analyzing-coded.html">Analyzing Coded Data</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -122,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Introduction to MAXQDA/add-data.html" class="sidebar-item-text sidebar-link active">
+  <a href="../Introduction to MAXQDA/add-data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Add Data to Your MAXQDA Project</span></a>
   </div>
 </li>
@@ -151,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Planning Qualitative Data Analysis/analyzing-coded.html" class="sidebar-item-text sidebar-link">
+  <a href="../Planning Qualitative Data Analysis/analyzing-coded.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Analyzing Coded Data</span></a>
   </div>
 </li>
@@ -173,18 +173,20 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#interview-and-focus-group-data" id="toc-interview-and-focus-group-data" class="nav-link active" data-scroll-target="#interview-and-focus-group-data">Interview and focus group data</a></li>
-  <li><a href="#media-data" id="toc-media-data" class="nav-link" data-scroll-target="#media-data">Media data</a></li>
-  <li><a href="#survey-data" id="toc-survey-data" class="nav-link" data-scroll-target="#survey-data">Survey data</a></li>
+  <li><a href="#analyzing-coded-data-to-identify-themes-or-other-patterns-in-the-data" id="toc-analyzing-coded-data-to-identify-themes-or-other-patterns-in-the-data" class="nav-link active" data-scroll-target="#analyzing-coded-data-to-identify-themes-or-other-patterns-in-the-data">Analyzing coded data to identify themes or other patterns in the data</a>
+  <ul class="collapse">
+  <li><a href="#view-data-for-a-code-or-group-of-codes" id="toc-view-data-for-a-code-or-group-of-codes" class="nav-link" data-scroll-target="#view-data-for-a-code-or-group-of-codes">View data for a code or group of codes</a></li>
+  </ul></li>
+  <li><a href="#analyzing-coded-data-to-identify-quantitative-patterns-in-the-data" id="toc-analyzing-coded-data-to-identify-quantitative-patterns-in-the-data" class="nav-link" data-scroll-target="#analyzing-coded-data-to-identify-quantitative-patterns-in-the-data">Analyzing coded data to identify quantitative patterns in the data</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../Introduction to MAXQDA/index.html">Getting Started with MAXQDA</a></li><li class="breadcrumb-item"><a href="../Introduction to MAXQDA/add-data.html">Add Data to Your MAXQDA Project</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../Planning Qualitative Data Analysis/index.html">Planning Qualitative Data Analysis</a></li><li class="breadcrumb-item"><a href="../Planning Qualitative Data Analysis/analyzing-coded.html">Analyzing Coded Data</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Add Data to Your MAXQDA Project</h1>
+<h1 class="title">Analyzing Coded Data</h1>
 </div>
 
 
@@ -201,15 +203,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Once you have created a MAXQDA project, you will need to add your data. MAXQDA can be used to analyze many different types of data. In some cases, you may want to</p>
-<section id="interview-and-focus-group-data" class="level2">
-<h2 class="anchored" data-anchor-id="interview-and-focus-group-data">Interview and focus group data</h2>
+<section id="analyzing-coded-data-to-identify-themes-or-other-patterns-in-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="analyzing-coded-data-to-identify-themes-or-other-patterns-in-the-data">Analyzing coded data to identify themes or other patterns in the data</h2>
+<p>Coded data can be used for comparing data across the documents and identifying themes, discourses, narratives or other types of patterns in the data.</p>
+<section id="view-data-for-a-code-or-group-of-codes" class="level3">
+<h3 class="anchored" data-anchor-id="view-data-for-a-code-or-group-of-codes">View data for a code or group of codes</h3>
+<p>One of the simplest analysis approaches to analyzing coded data would be to look at the data that has been assigned to a code.</p>
 </section>
-<section id="media-data" class="level2">
-<h2 class="anchored" data-anchor-id="media-data">Media data</h2>
 </section>
-<section id="survey-data" class="level2">
-<h2 class="anchored" data-anchor-id="survey-data">Survey data</h2>
+<section id="analyzing-coded-data-to-identify-quantitative-patterns-in-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="analyzing-coded-data-to-identify-quantitative-patterns-in-the-data">Analyzing coded data to identify quantitative patterns in the data</h2>
+<p>Coding can be used to identify and quantify patterns within the data. In these studies, researchers develop a code book that can be reliably and consistently be used to label the data and make claims about the distribution of those codes after final analysis.</p>
+<!--# add example here that shows what this looks like -->
 
 
 </section>

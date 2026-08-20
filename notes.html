@@ -137,18 +137,6 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">About</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./Planning Qualitative Data Analysis/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Planning Qualitative Data Analysis</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./notes.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Tasks</span></a>
   </div>
@@ -159,6 +147,29 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Qualitative Research Examples</span></a>
   </div>
 </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./Planning Qualitative Data Analysis/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Planning Qualitative Data Analysis</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Planning Qualitative Data Analysis/analyzing-coded.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Analyzing Coded Data</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Planning Qualitative Data Analysis/coding.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Coding</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
@@ -274,7 +285,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jesshagman\.github\.io\/qual\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

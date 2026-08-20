@@ -1,97 +1,5 @@
 [
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Tasks",
-    "section": "",
-    "text": "create a flowchart/image illustration showing collaboration options",
-    "crumbs": [
-      "Tasks"
-    ]
-  },
-  {
-    "objectID": "notes.html#illinois-anyware",
-    "href": "notes.html#illinois-anyware",
-    "title": "Tasks",
-    "section": "Illinois Anyware",
-    "text": "Illinois Anyware\nMain: https://www.techservices.illinois.edu/services/illinois-anyware/\nList of software: https://static.ics.illinois.edu/anyware-software/",
-    "crumbs": [
-      "Tasks"
-    ]
-  },
-  {
-    "objectID": "Introduction to MAXQDA/maxqda-teams.html",
-    "href": "Introduction to MAXQDA/maxqda-teams.html",
-    "title": "Teamwork in MAXQDA",
-    "section": "",
-    "text": "Working with a team of research for MAXQDA - or any QDA software program - can be a challenge for those of who are used to cloud services that let us work simultaneously on a document with others. Instead, collaboration requires that you works separately on a shared project or develop a plan for merging files used by each team members.",
-    "crumbs": [
-      "Getting Started with MAXQDA",
-      "Teamwork in MAXQDA"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Resources on Qualitative Data Analysis",
-    "section": "",
-    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign.\nI work with students on planning and conducting analysis of qualitative data (or QDA). This website contains workshop materials, tutorials, and recommended resources for those doing qualitative work.\n\nWorkshop materials"
-  },
-  {
-    "objectID": "Introduction to MAXQDA/add-data.html",
-    "href": "Introduction to MAXQDA/add-data.html",
-    "title": "Teamwork in MAXQDA",
-    "section": "",
-    "text": "Once you have created a MAXQDA project, you will need to add your data. MAXQDA can be used to analyze many different types of data. In some cases, you may want to",
-    "crumbs": [
-      "Getting Started with MAXQDA",
-      "Teamwork in MAXQDA"
-    ]
-  },
-  {
-    "objectID": "Introduction to MAXQDA/add-data.html#interview-and-focus-group-data",
-    "href": "Introduction to MAXQDA/add-data.html#interview-and-focus-group-data",
-    "title": "Teamwork in MAXQDA",
-    "section": "Interview and focus group data",
-    "text": "Interview and focus group data",
-    "crumbs": [
-      "Getting Started with MAXQDA",
-      "Teamwork in MAXQDA"
-    ]
-  },
-  {
-    "objectID": "Introduction to MAXQDA/add-data.html#media-data",
-    "href": "Introduction to MAXQDA/add-data.html#media-data",
-    "title": "Teamwork in MAXQDA",
-    "section": "Media data",
-    "text": "Media data",
-    "crumbs": [
-      "Getting Started with MAXQDA",
-      "Teamwork in MAXQDA"
-    ]
-  },
-  {
-    "objectID": "Introduction to MAXQDA/add-data.html#survey-data",
-    "href": "Introduction to MAXQDA/add-data.html#survey-data",
-    "title": "Teamwork in MAXQDA",
-    "section": "Survey data",
-    "text": "Survey data",
-    "crumbs": [
-      "Getting Started with MAXQDA",
-      "Teamwork in MAXQDA"
-    ]
-  },
-  {
     "objectID": "Introduction to MAXQDA/index.html",
     "href": "Introduction to MAXQDA/index.html",
     "title": "Getting Started with MAXQDA",
@@ -159,6 +67,128 @@
     "text": "Activation\nYour project in MAXQDA will likely include many different data elements and a variety of codes that you will use to structure and analyze on your way to answering your research questions. By activating codes and documents, you can choose to focus on and explore one part of the data set.\nFor example, if we have a data set with two document groups: parents and teachers, for a study of communication between parents and teachers at an elementary school. Our data includes transcripts of interviews for each participant. Once we have coded all the interviews for topics like “barriers to communication,” we can use activation to compare how parents and teachers view communication barriers. We’ll be able to identify any commonalities or differences between the two groups.\n\n\n\n\n\n\n\n\nActivated document group\nActivated code\nData displayed in Retrieved Segments window\n\n\n\n\nParents\nBarriers to communication\nInterview transcript data where parents discuss what they see as barriers to communication with teachers.\n\n\nTeachers\nBarriers to communication\nInterview transcript data where teachers discuss what they see as barriers to communication with parents",
     "crumbs": [
       "Getting Started with MAXQDA"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/add-data.html",
+    "href": "Introduction to MAXQDA/add-data.html",
+    "title": "Add Data to Your MAXQDA Project",
+    "section": "",
+    "text": "Once you have created a MAXQDA project, you will need to add your data. MAXQDA can be used to analyze many different types of data. In some cases, you may want to",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Add Data to Your MAXQDA Project"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/add-data.html#interview-and-focus-group-data",
+    "href": "Introduction to MAXQDA/add-data.html#interview-and-focus-group-data",
+    "title": "Add Data to Your MAXQDA Project",
+    "section": "Interview and focus group data",
+    "text": "Interview and focus group data",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Add Data to Your MAXQDA Project"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/add-data.html#media-data",
+    "href": "Introduction to MAXQDA/add-data.html#media-data",
+    "title": "Add Data to Your MAXQDA Project",
+    "section": "Media data",
+    "text": "Media data",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Add Data to Your MAXQDA Project"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/add-data.html#survey-data",
+    "href": "Introduction to MAXQDA/add-data.html#survey-data",
+    "title": "Add Data to Your MAXQDA Project",
+    "section": "Survey data",
+    "text": "Survey data",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Add Data to Your MAXQDA Project"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Resources on Qualitative Data Analysis",
+    "section": "",
+    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign.\nI work with students on planning and conducting analysis of qualitative data (or QDA). This website contains workshop materials, tutorials, and recommended resources for those doing qualitative work."
+  },
+  {
+    "objectID": "index.html#workshop-materials",
+    "href": "index.html#workshop-materials",
+    "title": "Resources on Qualitative Data Analysis",
+    "section": "Workshop materials",
+    "text": "Workshop materials"
+  },
+  {
+    "objectID": "Planning Qualitative Data Analysis/index.html",
+    "href": "Planning Qualitative Data Analysis/index.html",
+    "title": "Planning Qualitative Data Analysis",
+    "section": "",
+    "text": "This workshop offers a framework for researchers deciding how to analyze qualitative data of varying types and using different methodologies.",
+    "crumbs": [
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "Planning Qualitative Data Analysis/index.html#looking-towards-your-research-outcome-to-plan-your-analysis",
+    "href": "Planning Qualitative Data Analysis/index.html#looking-towards-your-research-outcome-to-plan-your-analysis",
+    "title": "Planning Qualitative Data Analysis",
+    "section": "Looking towards your research outcome to plan your analysis",
+    "text": "Looking towards your research outcome to plan your analysis\nResearch is conducted\n\n\n\n\n\n\nNoteWhat are your research goals?\n\n\n\nTake a moment to think about your own goals for your research project? What do you hope to find out about the concepts or communities you’re studying? Where do you want to share your work? What format will you use to share your work?",
+    "crumbs": [
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "Planning Qualitative Data Analysis/analyzing-coded.html",
+    "href": "Planning Qualitative Data Analysis/analyzing-coded.html",
+    "title": "Analyzing Coded Data",
+    "section": "",
+    "text": "Coded data can be used for comparing data across the documents and identifying themes, discourses, narratives or other types of patterns in the data.\n\n\nOne of the simplest analysis approaches to analyzing coded data would be to look at the data that has been assigned to a code.",
+    "crumbs": [
+      "Planning Qualitative Data Analysis",
+      "Analyzing Coded Data"
+    ]
+  },
+  {
+    "objectID": "Planning Qualitative Data Analysis/analyzing-coded.html#analyzing-coded-data-to-identify-themes-or-other-patterns-in-the-data",
+    "href": "Planning Qualitative Data Analysis/analyzing-coded.html#analyzing-coded-data-to-identify-themes-or-other-patterns-in-the-data",
+    "title": "Analyzing Coded Data",
+    "section": "",
+    "text": "Coded data can be used for comparing data across the documents and identifying themes, discourses, narratives or other types of patterns in the data.\n\n\nOne of the simplest analysis approaches to analyzing coded data would be to look at the data that has been assigned to a code.",
+    "crumbs": [
+      "Planning Qualitative Data Analysis",
+      "Analyzing Coded Data"
+    ]
+  },
+  {
+    "objectID": "Planning Qualitative Data Analysis/analyzing-coded.html#analyzing-coded-data-to-identify-quantitative-patterns-in-the-data",
+    "href": "Planning Qualitative Data Analysis/analyzing-coded.html#analyzing-coded-data-to-identify-quantitative-patterns-in-the-data",
+    "title": "Analyzing Coded Data",
+    "section": "Analyzing coded data to identify quantitative patterns in the data",
+    "text": "Analyzing coded data to identify quantitative patterns in the data\nCoding can be used to identify and quantify patterns within the data. In these studies, researchers develop a code book that can be reliably and consistently be used to label the data and make claims about the distribution of those codes after final analysis.",
+    "crumbs": [
+      "Planning Qualitative Data Analysis",
+      "Analyzing Coded Data"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/maxqda-teams.html",
+    "href": "Introduction to MAXQDA/maxqda-teams.html",
+    "title": "Teamwork in MAXQDA",
+    "section": "",
+    "text": "Working with a team of research for MAXQDA - or any QDA software program - can be a challenge for those of who are used to cloud services that let us work simultaneously on a document with others. Instead, collaboration requires that you works separately on a shared project or develop a plan for merging files used by each team members.",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Teamwork in MAXQDA"
     ]
   }
 ]
