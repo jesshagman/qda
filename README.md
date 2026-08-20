@@ -1,1 +1,1 @@
-Repository for tutorials and workshop materials on qualitative data analysis. 
+Repository for tutorials and workshop materials on qualitative data analysis. quarto publish

@@ -2,3 +2,14 @@
 title: "Planning Qualitative Data Analysis"
 ---
 
+This workshop offers a framework for researchers deciding how to analyze qualitative data of varying types and using different methodologies.
+
+## Looking towards your research outcome to plan your analysis
+
+Research is conducted
+
+::: callout-note
+## What are your research goals?
+
+Take a moment to think about your own goals for your research project? What do you hope to find out about the concepts or communities you're studying? Where do you want to share your work? What format will you use to share your work?
+:::

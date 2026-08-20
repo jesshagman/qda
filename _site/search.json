@@ -1,19 +1,120 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Resources on Qualitative Data Analysis",
+    "objectID": "Planning Qualitative Data Analysis/analyzing-coded.html",
+    "href": "Planning Qualitative Data Analysis/analyzing-coded.html",
+    "title": "Analyzing Coded Data",
     "section": "",
-    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign.\nI work with students on planning and conducting analysis of qualitative data (or QDA). This website contains workshop materials, tutorials, and recommended resources for those doing qualitative work.\n\nWorkshop materials"
+    "text": "Coded data can be used for comparing data across the documents and identifying themes, discourses, narratives or other types of patterns in the data.\n\n\nOne of the simplest analysis approaches to analyzing coded data would be to look at the data that has been assigned to a code.",
+    "crumbs": [
+      "Planning Qualitative Data Analysis",
+      "Analyzing Coded Data"
+    ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Planning Qualitative Data Analysis/analyzing-coded.html#analyzing-coded-data-to-identify-themes-or-other-patterns-in-the-data",
+    "href": "Planning Qualitative Data Analysis/analyzing-coded.html#analyzing-coded-data-to-identify-themes-or-other-patterns-in-the-data",
+    "title": "Analyzing Coded Data",
     "section": "",
-    "text": "About this site",
+    "text": "Coded data can be used for comparing data across the documents and identifying themes, discourses, narratives or other types of patterns in the data.\n\n\nOne of the simplest analysis approaches to analyzing coded data would be to look at the data that has been assigned to a code.",
     "crumbs": [
-      "About"
+      "Planning Qualitative Data Analysis",
+      "Analyzing Coded Data"
+    ]
+  },
+  {
+    "objectID": "Planning Qualitative Data Analysis/analyzing-coded.html#analyzing-coded-data-to-identify-quantitative-patterns-in-the-data",
+    "href": "Planning Qualitative Data Analysis/analyzing-coded.html#analyzing-coded-data-to-identify-quantitative-patterns-in-the-data",
+    "title": "Analyzing Coded Data",
+    "section": "Analyzing coded data to identify quantitative patterns in the data",
+    "text": "Analyzing coded data to identify quantitative patterns in the data\nCoding can be used to identify and quantify patterns within the data. In these studies, researchers develop a code book that can be reliably and consistently be used to label the data and make claims about the distribution of those codes after final analysis.",
+    "crumbs": [
+      "Planning Qualitative Data Analysis",
+      "Analyzing Coded Data"
+    ]
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Tasks",
+    "section": "",
+    "text": "create a flowchart/image illustration showing collaboration options",
+    "crumbs": [
+      "Tasks"
+    ]
+  },
+  {
+    "objectID": "notes.html#illinois-anyware",
+    "href": "notes.html#illinois-anyware",
+    "title": "Tasks",
+    "section": "Illinois Anyware",
+    "text": "Illinois Anyware\nMain: https://www.techservices.illinois.edu/services/illinois-anyware/\nList of software: https://static.ics.illinois.edu/anyware-software/",
+    "crumbs": [
+      "Tasks"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/maxqda-teams.html",
+    "href": "Introduction to MAXQDA/maxqda-teams.html",
+    "title": "Teamwork in MAXQDA",
+    "section": "",
+    "text": "Working with a team of research for MAXQDA - or any QDA software program - can be a challenge for those of who are used to cloud services that let us work simultaneously on a document with others. Instead, collaboration requires that you works separately on a shared project or develop a plan for merging files used by each team members.",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Teamwork in MAXQDA"
+    ]
+  },
+  {
+    "objectID": "Planning Qualitative Data Analysis/index.html",
+    "href": "Planning Qualitative Data Analysis/index.html",
+    "title": "Planning Qualitative Data Analysis",
+    "section": "",
+    "text": "This workshop offers a framework for researchers deciding how to analyze qualitative data of varying types and using different methodologies.",
+    "crumbs": [
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/add-data.html",
+    "href": "Introduction to MAXQDA/add-data.html",
+    "title": "Add Data to Your MAXQDA Project",
+    "section": "",
+    "text": "Once you have created a MAXQDA project, you will need to add your data. MAXQDA can be used to analyze many different types of data. In some cases, you may want to",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Add Data to Your MAXQDA Project"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/add-data.html#interview-and-focus-group-data",
+    "href": "Introduction to MAXQDA/add-data.html#interview-and-focus-group-data",
+    "title": "Add Data to Your MAXQDA Project",
+    "section": "Interview and focus group data",
+    "text": "Interview and focus group data",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Add Data to Your MAXQDA Project"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/add-data.html#media-data",
+    "href": "Introduction to MAXQDA/add-data.html#media-data",
+    "title": "Add Data to Your MAXQDA Project",
+    "section": "Media data",
+    "text": "Media data",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Add Data to Your MAXQDA Project"
+    ]
+  },
+  {
+    "objectID": "Introduction to MAXQDA/add-data.html#survey-data",
+    "href": "Introduction to MAXQDA/add-data.html#survey-data",
+    "title": "Add Data to Your MAXQDA Project",
+    "section": "Survey data",
+    "text": "Survey data",
+    "crumbs": [
+      "Getting Started with MAXQDA",
+      "Add Data to Your MAXQDA Project"
     ]
   },
   {
@@ -37,11 +138,11 @@
     ]
   },
   {
-    "objectID": "Introduction to MAXQDA/index.html#for-off-campus-use-connect-to-campus-vpn",
-    "href": "Introduction to MAXQDA/index.html#for-off-campus-use-connect-to-campus-vpn",
+    "objectID": "Introduction to MAXQDA/index.html#using-maxqda-off-campus",
+    "href": "Introduction to MAXQDA/index.html#using-maxqda-off-campus",
     "title": "Getting Started with MAXQDA",
-    "section": "For off-campus use: Connect to Campus VPN",
-    "text": "For off-campus use: Connect to Campus VPN\nIf you are using MAXQDA away from any of the University of Illinois campuses, you will need to use the Campus VPN service.",
+    "section": "Using MAXQDA off campus",
+    "text": "Using MAXQDA off campus\nIf you are off-campus, you will need to either access the campus network using the VPN service or use MAXQDA through the IllinoisAnyware remote desktop service. Both services identify you as a member of the Illinois community with access to the shared license.\n\nUsing the VPN\n\n\nUsing IllinoisAnyWare\nIllinois AnyWareis a virtual desktop program, which lets you access research software from your own device. You will essentially be logging into a Windows desktop through your web browser and using the software that way. MAXQDA is among the programs installed on the virtual desktop. If you use IllinoisAnyWare, you will not need to use the Campus VPN.\n\n\n\n\n\n\nTipAccessing and saving files with Illinois AnyWare\n\n\n\nFiles stored in your University OneDrive storage will be accessible on the virtual desktop. If you are not storing your research files in OneDrive, you should log into the storage location via the web, download the file, and then re-upload to the service once you have finished your work.\nFiles saved on the computer desktop or documents will not be saved. You must save your files to OneDrive or another cloud storage service.",
     "crumbs": [
       "Getting Started with MAXQDA"
     ]
@@ -87,13 +188,27 @@
     ]
   },
   {
-    "objectID": "Introduction to MAXQDA/index.html#using-maxqda-off-campus",
-    "href": "Introduction to MAXQDA/index.html#using-maxqda-off-campus",
-    "title": "Getting Started with MAXQDA",
-    "section": "Using MAXQDA off campus",
-    "text": "Using MAXQDA off campus\nIf you are off-campus, you will need to either access the campus network using the VPN service or use MAXQDA through the IllinoisAnyware remote desktop service. Both services identify you as a member of the Illinois community with access to the shared license.\n\nUsing the VPN\n\n\nUsing IllinoisAnyWare\nIllinois AnyWareis a virtual desktop program, which lets you access research software from your own device. You will essentially be logging into a Windows desktop through your web browser and using the software that way. MAXQDA is among the programs installed on the virtual desktop. If you use IllinoisAnyWare, you will not need to use the Campus VPN.\n\n\n\n\n\n\nTipAccessing and saving files with Illinois AnyWare\n\n\n\nFiles stored in your University OneDrive storage will be accessible on the virtual desktop. If you are not storing your research files in OneDrive, you should log into the storage location via the web, download the file, and then re-upload to the service once you have finished your work.\nFiles saved on the computer desktop or documents will not be saved. You must save your files to OneDrive or another cloud storage service.",
+    "objectID": "Planning Qualitative Data Analysis/index.html#looking-towards-your-research-outcome-to-plan-your-analysis",
+    "href": "Planning Qualitative Data Analysis/index.html#looking-towards-your-research-outcome-to-plan-your-analysis",
+    "title": "Planning Qualitative Data Analysis",
+    "section": "Looking towards your research outcome to plan your analysis",
+    "text": "Looking towards your research outcome to plan your analysis\nResearch is conducted\n\n\n\n\n\n\nNoteWhat are your research goals?\n\n\n\nTake a moment to think about your own goals for your research project? What do you hope to find out about the concepts or communities you’re studying? Where do you want to share your work? What format will you use to share your work?",
     "crumbs": [
-      "Getting Started with MAXQDA"
+      "Planning Qualitative Data Analysis"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Resources on Qualitative Data Analysis",
+    "section": "",
+    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign.\nI work with students on planning and conducting analysis of qualitative data (or QDA). This website contains workshop materials, tutorials, and recommended resources for those doing qualitative work."
+  },
+  {
+    "objectID": "index.html#workshop-materials",
+    "href": "index.html#workshop-materials",
+    "title": "Resources on Qualitative Data Analysis",
+    "section": "Workshop materials",
+    "text": "Workshop materials"
   }
 ]

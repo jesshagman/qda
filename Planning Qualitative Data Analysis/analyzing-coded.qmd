@@ -1,0 +1,17 @@
+---
+title: "Analyzing Coded Data"
+---
+
+## Analyzing coded data to identify themes or other patterns in the data
+
+Coded data can be used for comparing data across the documents and identifying themes, discourses, narratives or other types of patterns in the data.
+
+### View data for a code or group of codes
+
+One of the simplest analysis approaches to analyzing coded data would be to look at the data that has been assigned to a code.
+
+## Analyzing coded data to identify quantitative patterns in the data
+
+Coding can be used to identify and quantify patterns within the data. In these studies, researchers develop a code book that can be reliably and consistently be used to label the data and make claims about the distribution of those codes after final analysis.
+
+<!--# add example here that shows what this looks like -->

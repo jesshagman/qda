@@ -11,8 +11,7 @@ format:
   html:
     theme:
       - flatly
-      - brand
-    css: style.scss
+      - style.scss
     toc: true
 
 

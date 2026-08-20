@@ -1,10 +1,6 @@
 ---
 title: "Getting Started with MAXQDA"
 order: 1
-author: 
-    name: Jess Hagman
-    affiliation: University of Illinois, Urbana-Champaign
-date: 2026-08-14
 ---
 
 # What is MAXQDA
