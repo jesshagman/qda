@@ -6,3 +6,5 @@ Hi, I'm Jess Hagman, a librarian at the University of Illinois Urbana-Champaign.
 
 I work with students on planning and conducting analysis of qualitative data (or QDA). This website contains workshop materials, tutorials, and recommended resources for those doing qualitative work. 
 
+### Workshop materials
+
