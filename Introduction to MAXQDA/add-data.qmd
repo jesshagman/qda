@@ -1,0 +1,19 @@
+---
+title: "Teamwork in MAXQDA"
+order: 4
+author: 
+    name: Jess Hagman
+    affiliation: University of Illinois, Urbana-Champaign
+date: 2026-08-20
+---
+
+Once you have created a MAXQDA project, you will need to add your data. MAXQDA can be used to analyze many different types of data. In some cases, you may want to 
+
+## Interview and focus group data
+
+
+## Media data
+
+## Survey data 
+
+

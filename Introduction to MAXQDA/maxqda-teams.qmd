@@ -4,5 +4,8 @@ order: 2
 author: 
     name: Jess Hagman
     affiliation: University of Illinois, Urbana-Champaign
-date: 2026-08
+date: 2026-08-20
 ---
+
+Working with a team of research for MAXQDA - or any QDA software program - can be a challenge for those of who are used to cloud services that let us work simultaneously on a document with others. Instead, collaboration requires that you works separately on a shared project or develop a plan for merging files used by each team members.
+
