@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Resources on Qualitative Data Analysis",
     "section": "",
-    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign.\nI work with students on planning and conducting analysis of qualitative data (or QDA). This website contains workshop materials, tutorials, and recommended resources for those doing qualitative work."
+    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign.\nI work with students on planning and conducting analysis of qualitative data (or QDA). This website contains workshop materials, tutorials, and recommended resources for those doing qualitative work.\n\nWorkshop materials"
   },
   {
     "objectID": "about.html",
@@ -91,7 +91,7 @@
     "href": "Introduction to MAXQDA/index.html#using-maxqda-off-campus",
     "title": "Getting Started with MAXQDA",
     "section": "Using MAXQDA off campus",
-    "text": "Using MAXQDA off campus\nIf you are off-campus, you will need to either access the campus network using the VPN service or use MAXQDA through the IllinoisAnyware remote desktop service. Both services identify you as a member of the Illinois community with access to the shared license.\n\nUsing the VPN\n\n\nUsing IllinoisAnyWare\nIllinois AnyWareis a virtual desktop program, which lets you access research software from your own device. You will essentially be logging into a Windows desktop through your web browser and using the software that way. MAXQDA is among the programs installed on the virtual desktop. If you use IllinoisAnyWare, you will not need to use the Campus VPN.\n\n\n\n\n\n\nTip\n\n\n\nAccessing and saving your files via Illinois AnyWare\nFiles stored in your University OneDrive storage will be accessible on the virtual desktop. If you are not storing your research files in OneDrive, you should log into the storage location via the web, download the file, and then re-upload to the service once you have finished your work.\nFiles saved on the computer desktop or documents will not be saved. You must save your files to OneDrive or another cloud storage service.",
+    "text": "Using MAXQDA off campus\nIf you are off-campus, you will need to either access the campus network using the VPN service or use MAXQDA through the IllinoisAnyware remote desktop service. Both services identify you as a member of the Illinois community with access to the shared license.\n\nUsing the VPN\n\n\nUsing IllinoisAnyWare\nIllinois AnyWareis a virtual desktop program, which lets you access research software from your own device. You will essentially be logging into a Windows desktop through your web browser and using the software that way. MAXQDA is among the programs installed on the virtual desktop. If you use IllinoisAnyWare, you will not need to use the Campus VPN.\n\n\n\n\n\n\nTipAccessing and saving files with Illinois AnyWare\n\n\n\nFiles stored in your University OneDrive storage will be accessible on the virtual desktop. If you are not storing your research files in OneDrive, you should log into the storage location via the web, download the file, and then re-upload to the service once you have finished your work.\nFiles saved on the computer desktop or documents will not be saved. You must save your files to OneDrive or another cloud storage service.",
     "crumbs": [
       "Getting Started with MAXQDA"
     ]
